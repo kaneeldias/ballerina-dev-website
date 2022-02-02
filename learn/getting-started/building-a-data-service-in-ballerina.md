@@ -1,7 +1,7 @@
 ---
 layout: ballerina-building-a-data-service-left-nav-pages-swanlake
 title: Building a Data Service in Ballerina 
-description: Connecting to a MySQL database and executing queries using an HTTP RESTful API using Ballerina.
+description: This tutorial covers how to connect to a MySQL database and perform basic CRUD operations against it through an HTTP RESTful API using Ballerina.
 keywords: ballerina, data service, mysql, database, REST, API
 permalink: /learn/building-a-data-service-in-ballerina/
 active: building-a-data-service
@@ -9,8 +9,6 @@ intro: Connecting to a MySQL database and executing queries using an HTTP RESTfu
 redirect_from:
  - /learn/building-a-data-service-in-ballerina
 ---
-
-This tutorial covers how you can connect to a MySQL database and perform queries against it using Ballerina. In addition, this tutorial also elaborates on how you can create an HTTP RESTful API using Ballerina that can be used to perform basic CRUD operations on the database.
 
 ![Data Service Architecture](/learn/images/data-service-architecture.png "Data Service Architecture")
 
